@@ -3,7 +3,7 @@
  * Plugin Name: Media Alt Text Manager
  * Plugin URI: https://wordpress.org/plugins/media-alt-text-manager/
  * Description: Adds a sortable Alt Text column to the media library for quick alt text management.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Gulshan Kumar
  * Author URI: https://www.gulshankumar.net
  * License: GPL-2.0+
@@ -108,7 +108,7 @@ add_filter( 'manage_media_columns', 'matm_add_edit_alt_text_column' );
  * Populate the custom column with alt text input field.
  */
 function matm_display_edit_alt_text_column( $column_name, $post_id ) {
-    if ( $column_name === 'alt_text_edit' ) {
+    if ( $column_name === 'alt_text_edit' && wp_attachment_is_image( $post_id ) ) {
         // Check if the user can edit their own image or is an admin/editor
         if ( current_user_can( 'edit_post', $post_id ) || ( current_user_can( 'upload_files' ) && get_post_field( 'post_author', $post_id ) === get_current_user_id() ) ) {
             $alt_text = get_post_meta( $post_id, '_wp_attachment_image_alt', true );

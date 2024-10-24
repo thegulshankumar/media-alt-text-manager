@@ -5,7 +5,7 @@ Tags: accessibility, alt text, media library, seo, image optimization
 Requires at least: 4.9.9
 Requires PHP: 7.2
 Tested up to: 6.6.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,9 @@ Yes, this plugin is compatible with most WordPress themes, as it operates solely
 1. Media library with the new Alt Text column
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed: Alt text input field now only displays for image media types, preventing confusion for users when editing other media types.
 
 = 1.0.0 =
 * Initial release
