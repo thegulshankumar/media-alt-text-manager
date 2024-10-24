@@ -2,14 +2,14 @@
 
 # Media Alt Text Manager
 
-Easily manage alt text for media items directly from the WordPress media library, improving accessibility and SEO. 
+‍🔥 ‍Easily manage alt text for media items directly from the WordPress media library, improving accessibility and SEO. 
 
 ## Description 
-The **Media Alt Text Manager** plugin enhances the WordPress media library by adding a sortable 'Alt Text' column. This feature simplifies managing alternative text for images, thereby improving your site's accessibility and SEO. ���
+The **Media Alt Text Manager** plugin enhances the WordPress media library by adding a sortable 'Alt Text' column. This feature simplifies managing alternative text for images, thereby improving your site's accessibility and SEO. 
 
 ## Key Features ⚡
 - **Alt Text Column**: Adds a new column to the media library displaying the alt text for each image. 
-- **Sorting by Alt Text Status**: Enables sorting of media items based on their alt text status. ⚖️
+- **Sorting by Alt Text Status**: Enables sorting of media items based on their alt text status. 
 - **Enhanced Workflow**: Streamlines the process of ensuring all images have appropriate alt text. 
 
 ## Installation 
