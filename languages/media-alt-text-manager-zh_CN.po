@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Alt Text Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-08 21:25+0000\n"
+"PO-Revision-Date: 2024-10-08 21:32+0000\n"
+"Last-Translator: Gulshan Kumar\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: media-alt-text-manager"
+
+#. Description of the plugin
+msgid ""
+"Adds a sortable Alt Text column to the media library for quick alt text "
+"management."
+msgstr "在媒体库中添加可排序的 Alt 文本列，以便快速管理 Alt 文本。"
+
+#: media-alt-text-manager.php:98
+msgid "Alt Text"
+msgstr "文本"
+
+#: media-alt-text-manager.php:85
+msgid "Buy developer a coffee"
+msgstr "请开发人员喝咖啡"
+
+#. Author of the plugin
+msgid "Gulshan Kumar"
+msgstr "古尔尚-库马尔"
+
+#: media-alt-text-manager.php:75
+msgid "Hire for Technical Support"
+msgstr "聘请技术支持人员"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/media-alt-text-manager/"
+msgstr "https://wordpress.org/plugins/media-alt-text-manager/"
+
+#. Author URI of the plugin
+msgid "https://www.gulshankumar.net"
+msgstr "https://www.gulshankumar.net"
+
+#. Name of the plugin
+msgid "Media Alt Text Manager"
+msgstr "媒体 Alt 文本管理器"
+
+#: media-alt-text-manager.php:82
+msgid "Show your support"
+msgstr "表示支持"
+
+#. %1$s: opening link tag, %2$s: closing link tag
+#: media-alt-text-manager.php:48
+#, php-format
+msgid ""
+"To efficiently manage Alt Text for images, please visit the %1$sMedia "
+"Library in List Mode%2$s."
+msgstr "要有效管理图片的 Alt 文本，请访问列表模式下的 %1$s 媒体库%2$s。"
+
+#: media-alt-text-manager.php:77
+msgid "Work with Gulshan"
+msgstr "与古尔尚合作"

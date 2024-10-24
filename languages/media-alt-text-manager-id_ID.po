@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Alt Text Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-08 21:25+0000\n"
+"PO-Revision-Date: 2024-10-08 21:36+0000\n"
+"Last-Translator: Gulshan Kumar\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: media-alt-text-manager"
+
+#. Description of the plugin
+msgid ""
+"Adds a sortable Alt Text column to the media library for quick alt text "
+"management."
+msgstr ""
+"Menambahkan kolom Teks Alt yang dapat diurutkan ke pustaka media untuk "
+"manajemen teks alt yang cepat."
+
+#: media-alt-text-manager.php:98
+msgid "Alt Text"
+msgstr "Alt Text"
+
+#: media-alt-text-manager.php:85
+msgid "Buy developer a coffee"
+msgstr "Belikan pengembang kopi"
+
+#. Author of the plugin
+msgid "Gulshan Kumar"
+msgstr "Gulshan Kumar"
+
+#: media-alt-text-manager.php:75
+msgid "Hire for Technical Support"
+msgstr "Menyewa untuk Dukungan Teknis"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/media-alt-text-manager/"
+msgstr "https://wordpress.org/plugins/media-alt-text-manager/"
+
+#. Author URI of the plugin
+msgid "https://www.gulshankumar.net"
+msgstr "https://www.gulshankumar.net"
+
+#. Name of the plugin
+msgid "Media Alt Text Manager"
+msgstr "Manajer Teks Alt Media"
+
+#: media-alt-text-manager.php:82
+msgid "Show your support"
+msgstr "Tunjukkan dukungan Anda"
+
+#. %1$s: opening link tag, %2$s: closing link tag
+#: media-alt-text-manager.php:48
+#, php-format
+msgid ""
+"To efficiently manage Alt Text for images, please visit the %1$sMedia "
+"Library in List Mode%2$s."
+msgstr ""
+"Untuk mengelola Alt Text untuk gambar secara efisien, silakan kunjungi "
+"%1$sMedia Library dalam Mode Daftar%2$s."
+
+#: media-alt-text-manager.php:77
+msgid "Work with Gulshan"
+msgstr "Bekerja dengan Gulshan"

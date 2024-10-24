@@ -1,0 +1,67 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Alt Text Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-08 21:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: media-alt-text-manager"
+
+#. Description of the plugin
+msgid ""
+"Adds a sortable Alt Text column to the media library for quick alt text "
+"management."
+msgstr ""
+
+#: media-alt-text-manager.php:98
+msgid "Alt Text"
+msgstr ""
+
+#: media-alt-text-manager.php:85
+msgid "Buy developer a coffee"
+msgstr ""
+
+#. Author of the plugin
+msgid "Gulshan Kumar"
+msgstr ""
+
+#: media-alt-text-manager.php:75
+msgid "Hire for Technical Support"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/media-alt-text-manager/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.gulshankumar.net"
+msgstr ""
+
+#. Name of the plugin
+msgid "Media Alt Text Manager"
+msgstr ""
+
+#: media-alt-text-manager.php:82
+msgid "Show your support"
+msgstr ""
+
+#. %1$s: opening link tag, %2$s: closing link tag
+#: media-alt-text-manager.php:48
+#, php-format
+msgid ""
+"To efficiently manage Alt Text for images, please visit the %1$sMedia "
+"Library in List Mode%2$s."
+msgstr ""
+
+#: media-alt-text-manager.php:77
+msgid "Work with Gulshan"
+msgstr ""
