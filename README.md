@@ -1,4 +1,4 @@
-![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dd/media-alt-text-manager?style=for-the-badge&labelColor=da3900&cacheSeconds=300) ![WordPress Plugin Active Installs](https://img.shields.io/wordpress/plugin/installs/media-alt-text-manager?style=for-the-badge&labelColor=da3900&cacheSeconds=300)
+![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dd/media-alt-text-manager?&color=00796b&style=for-the-badge&labelColor=da3900&cacheSeconds=300) ![WordPress Plugin Active Installs](https://img.shields.io/wordpress/plugin/installs/media-alt-text-manager?style=for-the-badge&labelColor=da3900&cacheSeconds=300&&color=00796b)
 
 # Media Alt Text Manager
 
